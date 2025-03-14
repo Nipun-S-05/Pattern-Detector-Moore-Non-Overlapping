@@ -1,0 +1,1 @@
+# Pattern-Detector-Moore-Non-Overlapping
