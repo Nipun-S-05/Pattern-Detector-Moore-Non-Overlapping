@@ -1,0 +1,24 @@
+# Reading pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:40:20 on Jul 17,2024
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module moore_non_over
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 11:40:20 on Jul 17,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 11:40:20 on Jul 17,2024
+# Loading work.tb
+# Loading work.moore_non_over
+# number of times pattern is detected=          4
+# ** Note: $finish    : tb.v(41)
+#    Time: 1 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at tb.v line 41
+# WARNING: No extended dataflow license exists
+# End time: 11:57:32 on Jul 17,2024, Elapsed time: 0:17:12
+# Errors: 0, Warnings: 0
